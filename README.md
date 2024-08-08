@@ -1,5 +1,4 @@
 ### Project Overview
-<img width="326" alt="image" src="https://github.com/user-attachments/assets/cf9de42b-4c52-4adc-a1ce-daff80bfc0f3">
 This design project aims to develop an online platform to order food and drinks in NTU canteens. On this platform, users can select the restaurant by categories (e.g., western, Indian, drinks, etc.) or the canteens (e.g., Can 1, Can 2, etc.). When ordering by canteens, users are presented with a map of NTU which allows them to click on the specific canteen to view the restaurants. After placing the order, the users can track the order's status. When an order is completed, users can go to the history to give ratings. Moreover, the web app has well-rounded account management functions such as friend referral, voucher management, and e-wallet top-up.
 ### Site Map
 <img width="452" alt="image" src="https://github.com/user-attachments/assets/9a03cb0a-bab7-40bb-ac46-53a07a5d5d99">
