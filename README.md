@@ -11,8 +11,10 @@ This design project aims to develop an online platform to order food and drinks 
 
 
 ### Code Design of some Use Cases:
+
 The code design of the flow of  “Placing an order”
 <img width="452" alt="pic1" src="https://github.com/user-attachments/assets/0e76e10e-e209-4bb3-957c-00cef18132a9">
+
 The code design of Account Management
 <img width="452" alt="pic2" src="https://github.com/user-attachments/assets/b1b2374f-67fc-4a00-8dc9-862b8e170ab5">
 
